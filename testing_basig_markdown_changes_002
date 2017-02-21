@@ -8,5 +8,23 @@
 <h1>My First Heading</h1>
 <p>There are differences between British and US English</p>
 
+
+<div class="compare">
+  <table>
+    <td>
+        <tr>
+    <ul>
+      <li>British List</li>
+    </ul>
+        </tr>
+    </td>
+    <td>
+      <ul>
+        <li>US List</li>
+      </ul>
+    </td>
+  </table>
+</div>
+
 </body>
 </html>
